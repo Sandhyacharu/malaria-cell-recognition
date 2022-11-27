@@ -1,4 +1,6 @@
-# Deep Neural Network for Malaria Infected Cell Recognition
+### EX NO: 04
+### DATE:
+# <p align="center">Deep Neural Network for Malaria Infected Cell Recognition</p>
 
 ## AIM
 
@@ -41,8 +43,8 @@ Write your own steps
 
 ## PROGRAM
 
-### Developed By : Sandhya charu N
-### Register Number : 212220230041
+# Developed By : Sandhya charu N
+# Register Number : 212220230041
 ```python3
 import os
 import pandas as pd
